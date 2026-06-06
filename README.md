@@ -24,7 +24,6 @@ Day 2
 - Symbol
 
 2. Non- Primitive Datatype
-
 - Array
 - Object
 

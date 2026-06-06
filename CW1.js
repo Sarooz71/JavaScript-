@@ -26,6 +26,7 @@ rl.question("Enter your birth year: ", (birthYear) => {
 // Store the price of a book and the quantity purchased. Calculate and print the total cost.
 
 
+
 // 4. Find the Average
 // Store three test scores in variables and calculate their average.
 
